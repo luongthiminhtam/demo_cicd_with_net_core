@@ -6,6 +6,7 @@ namespace JenkinsWebApplicationDemo.Controllers
     {
         public IActionResult Index()
         {
+            //cuonglv
             return View();
         }
     }
